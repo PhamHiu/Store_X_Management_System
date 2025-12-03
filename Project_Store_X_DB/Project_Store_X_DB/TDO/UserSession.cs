@@ -14,5 +14,10 @@ namespace Project_Store_X_DB.DTO // Đảm bảo namespace là .DTO
         {
             CurrentEmployee = null;
         }
+        
+        public static void tests()
+        {
+            Console.WriteLine("test");
+        }
     }
 }
