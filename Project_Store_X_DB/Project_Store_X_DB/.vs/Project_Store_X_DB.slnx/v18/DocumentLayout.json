@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|d:\\git\\asm_db\\project_store_x_db\\project_store_x_db\\tdo\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|d:\\git\\asm_db\\project_store_x_db\\project_store_x_db\\ui\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:ui\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\ui\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:ui\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|d:\\git\\asm_db\\project_store_x_db\\project_store_x_db\\bll\\createorderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:bll\\createorderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\tdo\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:tdo\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\tdo\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:tdo\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AE747F-D4F6-47C1-BA1F-D5F5C268ADEC}|Project_Store_X_DB.csproj|solutionrelative:dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,25 +63,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserSession.cs",
-              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\UserSession.cs",
-              "RelativeDocumentMoniker": "TDO\\UserSession.cs",
-              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\UserSession.cs",
-              "RelativeToolTip": "TDO\\UserSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Title": "Workspace.cs [Design]",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Workspace.cs",
+              "RelativeDocumentMoniker": "UI\\Workspace.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Workspace.cs [Design]",
+              "RelativeToolTip": "UI\\Workspace.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:42:04.318Z",
+              "WhenOpened": "2025-12-15T09:48:30.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderBLL.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\BLL\\CreateOrderBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\CreateOrderBLL.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\BLL\\CreateOrderBLL.cs",
+              "RelativeToolTip": "BLL\\CreateOrderBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:40:04.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Workspace.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Workspace.cs",
+              "RelativeDocumentMoniker": "UI\\Workspace.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Workspace.cs",
+              "RelativeToolTip": "UI\\Workspace.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:37:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\UI\\Login.cs",
+              "RelativeToolTip": "UI\\Login.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:38:54.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\UserSession.cs",
+              "RelativeDocumentMoniker": "TDO\\UserSession.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\UserSession.cs",
+              "RelativeToolTip": "TDO\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:38:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "TDO\\EmployeeDTO.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\TDO\\EmployeeDTO.cs",
+              "RelativeToolTip": "TDO\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:38:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\AccountDAL.cs",
+              "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "DAL\\AccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:35:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AccountBLL.cs",
               "DocumentMoniker": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\BLL\\AccountBLL.cs",
               "RelativeDocumentMoniker": "BLL\\AccountBLL.cs",
               "ToolTip": "D:\\Git\\ASM_DB\\Project_Store_X_DB\\Project_Store_X_DB\\BLL\\AccountBLL.cs",
               "RelativeToolTip": "BLL\\AccountBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T16:39:53.578Z"
             }
