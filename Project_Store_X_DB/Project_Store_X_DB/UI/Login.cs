@@ -19,7 +19,6 @@ namespace Project_Store_X_DB
         const int WM_NCLBUTTONDOWN = 0xA1;
         const int HTCAPTION = 0x2;
 
-
         // Khai báo BLL
         private AccountBLL _accountBLL = new AccountBLL();
 
